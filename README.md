@@ -20,7 +20,7 @@ Here is your text with a larger visual hierarchy using Markdown headings:
 
 # **REVERT if you want to continue with your ChatGPT account**
 
-## **Just stop the server.**
+## **Just Click on stop the server.**
 
 ## **Then restore the config (Step 3).**
 
