@@ -9,6 +9,11 @@ No-terminal Windows control panel for theRizwan/llm7-codex-proxy. One window: AP
 
 
 
+
+# **After downloading the Rizwan Proxy Server, simply launch my GUI client.**
+
+
+
 <img width="849" height="894" alt="Screenshot 2026-08-04 214630" src="https://github.com/user-attachments/assets/2c11778a-a9e8-417e-ae1a-16403aa1f359" />
 
 
