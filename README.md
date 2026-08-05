@@ -1,14 +1,16 @@
 # LLM7-Codex-Proxy-Gui  ( NO TERMINAL IS NEEDED AND CONNECT USING FEW CLICKS )
 No-terminal Windows control panel for theRizwan/llm7-codex-proxy. One window: API key, requirements, Codex config with one-click restore, start/stop. Free and MIT licensed. Point, click, run Codex on LLM7. A free GUI wrapper around theRizwan/llm7-codex-proxy — no commands, no config editing, backs up your original config.
 
-<img width="856" height="902" alt="image" src="https://github.com/user-attachments/assets/8e520982-d8f9-4a98-81d7-7d9fcefeccbd" />
+<img width="851" height="771" alt="image" src="https://github.com/user-attachments/assets/3028ee19-9a19-4490-98f4-3503adb48575" />
 
 
 
-<img width="859" height="796" alt="image" src="https://github.com/user-attachments/assets/27751203-cac4-4569-bdbc-1667d2bdfc4a" />
 
 
 
+
+
+<img width="852" height="566" alt="image" src="https://github.com/user-attachments/assets/784ac3ce-1f22-47a8-9584-272d0f1fec08" />
 
 
 
