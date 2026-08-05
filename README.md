@@ -1,5 +1,6 @@
 # LLM7-Codex-Proxy-Gui  ( NO TERMINAL IS NEEDED AND CONNECT USING FEW CLICKS ) I recommend using the models listed as turbo on models section of LLM7 they works well. Pro models required balance
 No-terminal Windows control panel for theRizwan/llm7-codex-proxy. One window: API key, requirements, Codex config with one-click restore, start/stop. Free and MIT licensed. Point, click, run Codex on LLM7. A free GUI wrapper around theRizwan/llm7-codex-proxy — no commands, no config editing, backs up your original config.
+
 Download - https://github.com/testingxtest2-dotcom/LLM7-Codex-Proxy-Gui/releases/tag/V11
 
 
