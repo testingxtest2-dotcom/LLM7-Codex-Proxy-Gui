@@ -16,8 +16,17 @@ LAST STEP - Make sure to complete close the codex from here and relaunch
 
 
 
-REVERT if want to countinue with CHATGPT account 
+Here is your text with a larger visual hierarchy using Markdown headings:
 
-Just Stop the server - then Restore the Config step 3 , Uninstall requirements and again completely close and relaunch the codex. 
+# **REVERT if you want to continue with your ChatGPT account**
 
-ENJOY
+## **Just stop the server.**
+
+## **Then restore the config (Step 3).**
+
+## **Uninstall the requirements.**
+
+## **Completely close and relaunch Codex.**
+
+# **ENJOY**
+
