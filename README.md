@@ -23,7 +23,7 @@ No-terminal Windows control panel for theRizwan/llm7-codex-proxy. One window: AP
 
 
 
-IMPORTANT - Make sure to download original Proxy server from https://github.com/theRizwan/llm7-codex-proxy
+IMPORTANT 
 
 STEP 1 - paste your API and Save
 
@@ -36,17 +36,11 @@ Step 4 - Start the server
 LAST STEP - Make sure to complete close the codex before any step and  relaunch after starting the server 
 
 
-Here is your text with a larger visual hierarchy using Markdown headings:
+
 
 # **REVERT if you want to continue with your ChatGPT account**
 
-## **Just Click on stop the server.**
+## **Just Click on Switch to Original Chatgpt and it will reverse all steps, you can do it manually as well in each step.**
 
-## **Then restore the config (Step 3).**
 
-## **Uninstall the requirements.**
-
-## **Completely close and relaunch Codex.**
-
-# **ENJOY**
 
