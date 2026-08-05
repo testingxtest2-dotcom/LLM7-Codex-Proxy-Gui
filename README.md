@@ -29,11 +29,7 @@ Step 3 - just click Write config
 
 Step 4 - Start the server 
 
-LAST STEP - Make sure to complete close the codex from here and relaunch 
-
-
-<img width="516" height="305" alt="Screenshot 2026-08-04 201117" src="https://github.com/user-attachments/assets/0579d772-938b-4854-8165-89c2c5837f5a" />
-
+LAST STEP - Make sure to complete close the codex before any step and  relaunch after starting the server 
 
 
 Here is your text with a larger visual hierarchy using Markdown headings:
