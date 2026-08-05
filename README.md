@@ -40,7 +40,7 @@ LAST STEP - Make sure to complete close the codex before any step and  relaunch 
 
 # **REVERT if you want to continue with your ChatGPT account**
 
-## **Just Click on Switch to Original Chatgpt and it will reverse all steps, you can do it manually as well in each step.**
+## **Just Click on Switch to Original Chatgpt on the Top right corner and it will reverse all steps, you can do it manually as well in each step.**
 
 
 
