@@ -23,7 +23,7 @@ IMPORTANT - Make sure to download original Proxy server from https://github.com/
 
 STEP 1 - paste your API and Save
 
-Step 2 - Browse the Main Proxy folder that you downloded from https://github.com/theRizwan/llm7-codex-proxy
+Step 2 - Browse the Main Proxy folder ( Rizwan extracted main ) that you downloded from https://github.com/theRizwan/llm7-codex-proxy
 
 Step 3 - just click Write config
 
