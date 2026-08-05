@@ -27,7 +27,7 @@ IMPORTANT
 
 STEP 1 - paste your API and Save
 
-Step 2 - If you dont have the proxy folder click on get it from here and it auto download, extract and detect it in your download folder, then just click on install requirements.
+Step 2 - If you dont have the proxy folder click on "get it from here" and it auto download, extract and detect it in your download folder, then just click on install requirements.
 
 Step 3 - just click Write config
 
