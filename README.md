@@ -12,7 +12,8 @@ Step 4 - Start the server
 LAST STEP - Make sure to complete close the codex from here and relaunch 
 
 
-<img width="240" height="141" alt="Screenshot 2026-08-04 200805" src="https://github.com/user-attachments/assets/4b5b68c6-fba3-4a2e-b437-a68c96159b11" />
+<img width="516" height="305" alt="Screenshot 2026-08-04 201117" src="https://github.com/user-attachments/assets/0579d772-938b-4854-8165-89c2c5837f5a" />
+
 
 
 REVERT if want to countinue with CHATGPT account 
