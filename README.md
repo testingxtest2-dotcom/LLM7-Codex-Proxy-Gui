@@ -1,20 +1,22 @@
 # LLM7-Codex-Proxy-Gui  ( NO TERMINAL IS NEEDED AND CONNECT USING FEW CLICKS )
 No-terminal Windows control panel for theRizwan/llm7-codex-proxy. One window: API key, requirements, Codex config with one-click restore, start/stop. Free and MIT licensed. Point, click, run Codex on LLM7. A free GUI wrapper around theRizwan/llm7-codex-proxy — no commands, no config editing, backs up your original config.
 
-# **Make sure to download and extract this.**
- - https://github.com/theRizwan/llm7-codex-proxy
-
-
-<img width="1209" height="581" alt="image" src="https://github.com/user-attachments/assets/3b9fd4a1-ceec-4dee-804a-2c52f55053be" />
+<img width="856" height="902" alt="image" src="https://github.com/user-attachments/assets/8e520982-d8f9-4a98-81d7-7d9fcefeccbd" />
 
 
 
-
-# **After downloading the Rizwan Proxy Server, simply launch my GUI client.**
-
+<img width="859" height="796" alt="image" src="https://github.com/user-attachments/assets/27751203-cac4-4569-bdbc-1667d2bdfc4a" />
 
 
-<img width="849" height="894" alt="Screenshot 2026-08-04 214630" src="https://github.com/user-attachments/assets/2c11778a-a9e8-417e-ae1a-16403aa1f359" />
+
+
+
+
+
+
+
+
+
 
 
 
@@ -23,7 +25,7 @@ IMPORTANT - Make sure to download original Proxy server from https://github.com/
 
 STEP 1 - paste your API and Save
 
-Step 2 - Browse the Main Proxy folder ( Rizwan extracted main ) that you downloded from https://github.com/theRizwan/llm7-codex-proxy
+Step 2 - If you dont have the proxy folder click on get it from here and it auto download, extract and detect it in your download folder, then just click on install requirements.
 
 Step 3 - just click Write config
 
